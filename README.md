@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **EcoBuddy**
 
-- 🌱 I’m currently learning **flask**
+- 🌱 I’m currently learning **C**
 
 - 👯 I’m looking to collaborate on **Groq**
 
