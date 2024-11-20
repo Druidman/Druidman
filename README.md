@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=druidman&label=Profile%20views&color=0e75b6&style=flat" alt="druidman" /> </p>
 
-- 🔭 I’m currently working on **EcoBuddy**
+- 🔭 I’m currently working on **Serafin copy**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Js**
 
 - 👯 I’m looking to collaborate on **Groq**
 
