@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>    🔭 I’m currently working on Serafin<br><br>    🌱 I’m currently learning Js<br><br>    👯 I’m looking to collaborate on Groq<br><br>    💬 Ask me about python<br><br>    ⚡ Fun fact I hate frontend<br>
+<br><br>    🔭 I’m currently working on Serafin <br><br>    🌱 I’m currently learning Js<br><br>    👯 I’m looking to collaborate on Groq<br><br>    💬 Ask me about python<br><br>    ⚡ Fun fact I hate frontend<br>
 
 
 # 💻 Tech Stack:
